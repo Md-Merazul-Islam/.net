@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
   "dotnet.defaultSolution": "ConsoleApp1.sln",
   "editor.formatOnSave": true
+=======
+  "dotnet.defaultSolution": "ConsoleApp1.sln"
+>>>>>>> 477d461f8d6e5fbc78d85ad37a3b41cb4a4f881c
 }
