@@ -13,6 +13,7 @@ class Program
     // Console.WriteLine();
 
     // TryParseUse.Run(args);
-    Dictionarys.RunDict(args);
+    // Dictionarys.RunDict(args);
+    HashSets.RunHash(args);
   }
 }
