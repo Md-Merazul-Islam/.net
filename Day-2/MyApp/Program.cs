@@ -14,6 +14,7 @@ class Program
 
     // TryParseUse.Run(args);
     // Dictionarys.RunDict(args);
-    HashSets.RunHash(args);
+    // HashSets.RunHash(args);
+    Queues.RunQue(args);
   }
 }
